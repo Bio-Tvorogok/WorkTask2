@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+	<facility name="Разработчики">
+		<employee name="Джон Сноу">
+			<position>стажер</position>
+			<salary>550</salary>
+		</employee>
+		<employee name="Аватар Аанг">
+			<position>главный разработчик</position>
+			<salary>700</salary>
+		</employee>
+	</facility>
+	<facility name="Сис админы">
+		<employee name="Фродо Бэггинс">
+			<position>лидер</position>
+			<salary>623</salary>
+		</employee>
+		<employee name="Дарт Вейдер">
+			<position>стажер</position>
+			<salary>502</salary>
+		</employee>
+		<employee name="Тайлер Дерден">
+			<position>смотрит, но не помогает</position>
+			<salary>433</salary>
+		</employee>
+	</facility>
+	<facility name="Пиар-менеджеры">
+		<employee name="Илон Маск">
+			<position>биржевой спекулянт</position>
+			<salary>2000</salary>
+		</employee>
+	</facility>
+</company>
